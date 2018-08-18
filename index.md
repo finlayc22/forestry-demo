@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/08/18/1-pf.PNG"
 layout: landing-page
 heading: Belkirk College
 partners:
@@ -20,7 +20,7 @@ sub_heading: Engineering and Health Sciences
 textline: |-
   Belkirk College of Engineering
 
-  Ora et Labora![](/uploads/2018/02/25/car.jpg)[Download File]( "Download File")
+  Ora et Labora[Download File]( "Download File")
 hero_button:
   text: Learn more
   href: "/about"
