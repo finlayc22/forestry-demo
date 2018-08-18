@@ -20,7 +20,7 @@ sub_heading: Engineering and Health Sciences
 textline: |-
   Belkirk College of Engineering
 
-  Ora et Labora![](/uploads/2018/02/25/car.jpg)
+  Ora et Labora![](/uploads/2018/02/25/car.jpg)[Download File]( "Download File")
 hero_button:
   text: Learn more
   href: "/about"
